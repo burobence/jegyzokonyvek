@@ -4,7 +4,7 @@
 **A mérést végző neve:** Buró Bence  
 **A mérés tárgya:** Antennák teljesítményének és jelminőségének összehasonlítása  
 **A mérés száma:** 2. mérés  
-**A mérés dátuma:** 2024. 10. 12.  
+**A mérés dátuma:** 2024. 12. 11.  
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
