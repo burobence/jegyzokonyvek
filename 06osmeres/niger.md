@@ -3,7 +3,7 @@
 **A mérést végző neve:** Buró Bence  
 **A mérés tárgya:**  Beérkező csatornák áthelyezése Johansson 6700-al. <br>
 **A mérés száma:** Johansson 6700 Profiler programozható antennaerősítő-szűrő használata. <br>
-**A mérés dátuma:**  2024.12.11.  
+**A mérés dátuma:**  2024.10.11.  
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
