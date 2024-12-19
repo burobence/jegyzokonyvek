@@ -91,4 +91,4 @@ Javasolt a mérések ismétlése annak érdekében, hogy a változó környezeti
 
 **Aláírás:** Buró Bence
 
-**Dátum:** 2024.11.20.
+**Dátum:** 2024.10.11.
