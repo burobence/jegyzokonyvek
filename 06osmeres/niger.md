@@ -89,6 +89,6 @@ Javasolt a mérések ismétlése annak érdekében, hogy a változó környezeti
 
 <br>
 
-**Aláírás:** Snellenperger Sándor
+**Aláírás:** Buró Bence
 
 **Dátum:** 2024.11.20.
