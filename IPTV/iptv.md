@@ -13,11 +13,11 @@
 - **Eszközök ellenőrzése:**  
   Ellenőriztem, hogy minden szükséges eszköz rendelkezésre állt, és minden működött rendeltetésszerűen.
 
-    -**Antenna:** Logper
-    -**Fejállomás:** LEMCO SCL-824CT
-    -**Set-top box:** MAG IPTV
-    -**Mérőműszer:** METEK HDD 
-    -**Hálózati eszközök:**   
+    -**Antenna:** Logper  
+    -**Fejállomás:** LEMCO SCL-824CT  
+    -**Set-top box:** MAG IPTV  
+    -**Mérőműszer:** METEK HDD   
+    -**Hálózati eszközök:**     
 
 
 - **Munkakörnyezet:**  
