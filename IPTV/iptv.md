@@ -113,5 +113,5 @@ A feladatot sikeresen elvégeztem. Minden lépést megfelelően teljesítettem a
 
 ---
 
-**Vizsgáztató:** Buró Bence
-**Aláírás:** Buró Bence  
+**Vizsgáztató:** [Buró Bence]
+**Aláírás:** [Buró Bence]  
