@@ -2,9 +2,9 @@
 
 ---
 
-**Vizsgázó neve:** Buró Bence  
-**Vizsga dátuma:** 2025.02.03 
-**Adótorony:** Miskolc, Avasi adótorony  
+**Vizsgázó neve:** [Buró Bence]  
+**Vizsga dátuma:** [2025.02.03] 
+**Adótorony:** [Miskolc, Avasi adótorony]  
 
 ---
 
