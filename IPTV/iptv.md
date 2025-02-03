@@ -3,7 +3,7 @@
 ---
 
 **Vizsgázó neve:** Buró Bence  
-**Vizsga dátuma:** [Dátum]  
+**Vizsga dátuma:** 2025.02.03  
 **Feladat tétele:** B tétel – DVB-T jel fejállomásba küldése és IPTV rendszeren való kiadása  
 **Adótorony:** Miskolc, Avasi adótorony  
 
