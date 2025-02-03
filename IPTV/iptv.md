@@ -3,8 +3,7 @@
 ---
 
 **Vizsgázó neve:** Buró Bence  
-**Vizsga dátuma:** 2025.02.03  
-**Feladat tétele:** B tétel – DVB-T jel fejállomásba küldése és IPTV rendszeren való kiadása  
+**Vizsga dátuma:** 2025.02.03
 **Adótorony:** Miskolc, Avasi adótorony  
 
 ---
@@ -12,13 +11,20 @@
 ### 1. Előkészületek (10 perc)
 
 - **Eszközök ellenőrzése:**  
-  A szükséges eszközök (antenna, fejállomás, Set-top box, mérőműszer, stb.) rendben voltak, és minden eszköz elérhető volt a feladat elvégzéséhez.  
+  Ellenőriztem, hogy minden szükséges eszköz rendelkezésre állt, és minden működött rendeltetésszerűen.
+
+    -**Antenna:** Logper
+    -**Fejállomás:** LEMCO SCL-824CT
+    -**Set-top box:** MAG IPTV
+    -**Mérőműszer:** METEK HDD 
+    -**Hálózati eszközök:**   
+
 
 - **Munkakörnyezet:**  
-  A munkakörnyezet tiszta és biztonságos, minden szükséges szerszám és eszköz rendelkezésre állt.
+  Biztosítottam, hogy a munkakörnyezet tiszta és biztonságos legyen, minden szükséges szerszám és eszköz elérhető volt a feladathoz.
 
 - **Multiplexek keresése:**  
-  Az adótorony adatbázisában elérhető multiplexek (frekvencia, teljesítmény, polarizáció, adás típusa) ellenőrzése megtörtént. Az alábbi információk kerültek rögzítésre:  
+  Az adótorony adatbázisában elérhető multiplexek információit keresve az alábbiakat rögzítettem:  
   - **Frekvencia:** [Frekvencia]  
   - **Teljesítmény:** [Teljesítmény]  
   - **Polarizáció:** [Polarizáció]  
@@ -29,35 +35,33 @@
 ### 2. Antenna felszerelése és beállítása (30 perc)
 
 - **Antenna kiválasztása:**  
-  A vizsgázó beltéri antennát választott a megfelelő vétel érdekében. Az antenna helyzete optimalizálva lett a legjobb vétel érdekében a V3 labor egyik jó vételi pontján.
+  A feladathoz beltéri antennát választottam, mivel az optimális vételt a V3 labor egyik megfelelő pontján biztosította.
 
 - **Antenna beállítása:**  
-  Az antenna pontos irányba állítása iránytű és dőlésszögmérő használatával történt. A METEK HDD mérőműszer segítségével a finomhangolás is sikeresen megtörtént.
+  Az antenna pontos irányba állításához iránytűt és dőlésszögmérőt használtam. A METEK HDD mérőműszer segítségével végeztem el a finomhangolást.
 
 ---
 
 ### 3. Kábelezés, mérési pontok kialakítása és jel bevezetése a fejállomásba (25 perc)
 
 - **Kábelezés:**  
-  Az antenna koaxiális kábellel és osztóval lett összekötve a fejállomással. A jelosztó beépítése megtörtént a mérési pont kialakításához. A jelek megfelelően elosztásra kerültek a fejállomás bemenetein.
+  Az antenna koaxiális kábellel és osztóval lett összekötve a fejállomással. A jelek megfelelő elosztásához jelosztót használtam.
 
 - **Jel bevezetése:**  
-  A jelek a villamos 3 laborba kerültek bevezetésre, hogy az IPTV hálózaton keresztül továbbíthatók legyenek.
+  A jelet sikeresen bevittem a villamos 3 laborba, hogy az IPTV hálózaton keresztül továbbítható legyen.
 
 ---
 
 ### 4. Fejállomás beállítása és IPTV stream konfigurálása (25 perc)
 
 - **Fejállomás beállítása:**  
-  A fejállomás bemeneteire a megfelelő multiplexek hozzárendelésre kerültek. A szabadon fogható (FTA) DVB-T jelet feldolgozták és IP streamre konvertálták.
+  A fejállomás bemeneteire megfelelő multiplexeket rendeltem. A szabadon fogható (FTA) DVB-T jelet feldolgoztam és IP streamre konvertáltam.
 
 - **Multicast IP tartomány:**  
-  A megfelelő multicast IP tartomány kiválasztása megtörtént, és a streamelt IPTV csatornákhoz hozzá lettek rendelve.
+  A megfelelő multicast IP tartomány kiválasztására és konfigurálására került sor, így a streamelt IPTV csatornák hozzá lettek rendelve.
 
 - **IPTV Set-top-box konfigurálása:**  
-  A MAG IPTV Set-top box csatlakoztatása és konfigurálása sikeresen megtörtént.  
-  - **Hálózati kapcsolat:** A kapcsolat beállítása megfelelően történt.  
-  - **Csatornakeresés:** A csatornakeresés sikeresen lezajlott, és az IPTV vétel megfelelően működik.
+  A MAG IPTV Set-top boxot csatlakoztattam és konfiguráltam. A hálózati kapcsolatot beállítottam, és a csatornakeresés sikeresen lezajlott.
 
 ---
 
@@ -99,22 +103,15 @@
   - **Traceroute vizsgálat:** [Útvonal ellenőrzés]
 
 - **Wireshark elemzés:**  
-  - A multicast csomagok figyelése és a stream rögzítése sikeresen megtörtént. A csomagvesztés és hibák elemzése is megtörtént az FFmpeg segítségével.
+  A multicast csomagok figyelése és a stream rögzítése sikeresen megtörtént. A csomagvesztés és hibák elemzése is megtörtént az FFmpeg segítségével.
 
 ---
 
 ### Összegzés:
 
-A vizsgázó sikeresen elvégezte a feladatot, és minden szükséges lépést teljesített a DVB-T jel fejállomásba küldése és IPTV rendszer kiadása során. Az IPTV stream megfelelően működik, és a szükséges hálózati tesztelések is sikeresen megtörténtek.
+A feladatot sikeresen elvégeztem. Minden lépést megfelelően teljesítettem a DVB-T jel fejállomásba küldése és az IPTV rendszer kiadása során. Az IPTV stream megfelelően működik, és a hálózati tesztelések is eredményesen zajlottak.
 
 ---
 
-### Jegyzőkönyv aláírása:
- --
-
-**Vizsgázó:** Buró Bence  
-**Aláírás:** Buró Bence 
-
----
-
-Ez a jegyzőkönyv a vizsga elvégzését és annak eredményeit dokumentálja.
+**Vizsgáztató:** Buró Bence
+**Aláírás:** Buró Bence  
