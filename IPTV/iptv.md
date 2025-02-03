@@ -17,7 +17,7 @@
     -**Fejállomás:** LEMCO SCL-824CT  
     -**Set-top box:** MAG IPTV  
     -**Mérőműszer:** METEK HDD   
-    -**Hálózati eszközök:**     
+    -**Hálózati eszközök:** Switch HP Procurve 2312 J4817A    
 
 
 - **Munkakörnyezet:**  
