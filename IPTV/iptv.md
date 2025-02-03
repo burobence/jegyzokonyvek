@@ -40,11 +40,11 @@
 - **Antenna beállítása:**  
   Az antenna pontos irányba állításához iránytűt és dőlésszögmérőt használtam. A METEK HDD mérőműszer segítségével végeztem el a finomhangolást.
 
-    -**Antenna típusa:** Iskra P-20 Logper 
-    -**Mérési eszközök:** Iránytű, dőlésszögűmérő, METEK HDD mérőműszer 
-    -**Jelerrősség:** 52 dBuV 
-    -**Irány:** Dél-Nyugat [233°] 
-    -**Polarizáció:** Horizontális  
+    -**Antenna típusa:**[Iskra P-20 Logper] 
+    -**Mérési eszközök:** [Iránytű, dőlésszögűmérő, METEK HDD mérőműszer]   
+    -**Jelerrősség:** [52 dBuV] 
+    -**Irány:** Dél-Nyugat [233°]  
+    -**Polarizáció:** [Horizontális]    
 
 ---
 
