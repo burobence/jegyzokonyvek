@@ -110,14 +110,10 @@ A vizsgázó sikeresen elvégezte a feladatot, és minden szükséges lépést t
 ---
 
 ### Jegyzőkönyv aláírása:
+ --
 
-**Vizsgáztató:** [Név]  
-**Aláírás:** [Aláírás]  
-
----
-
-**Vizsgázó:** [Név]  
-**Aláírás:** [Aláírás]  
+**Vizsgázó:** Buró Bence  
+**Aláírás:** Buró Bence 
 
 ---
 
