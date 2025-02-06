@@ -111,6 +111,12 @@
 - **Wireshark elemzés:**  
   A multicast csomagok figyelése és a stream rögzítése sikeresen megtörtént. A csomagvesztés és hibák elemzése is megtörtént az FFmpeg segítségével.
 
+  **Inputálás:**
+![ddddsdas](https://github.com/user-attachments/assets/1597596c-4e9d-498a-8bb9-2972f74cae8f)
+![ddddsdas](https://github.com/user-attachments/assets/dcf367a1-7377-4bf7-bdcc-4c249a6bd506)
+![fdgfgdh](https://github.com/user-attachments/assets/2b3918c5-c9cc-4e05-aa44-65e58af87264)
+
+
 ---
 
 ### Összegzés:
