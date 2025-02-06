@@ -4,7 +4,7 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:** Vad Levente
+**A mérést végző neve:** Buró Bence
 **A mérés tárgya:** Bitsebesség vs jelminőség mérés
 **A mérés száma:** 2. mérés  
 **A mérés dátuma:** 2024. 11. 20.
@@ -137,6 +137,6 @@ További mérésekkel, például különböző antennák tesztelésével, zajfor
 </details>
 
 
-**Aláírás:** Vad Levente
+**Aláírás:** Buró Bence
 
 **Dátum:** 2024. 11. 20.
