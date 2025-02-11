@@ -19,7 +19,7 @@ Parancs: `ipconfig`
 <details>
   <summary>Kép megtekintése</summary>
 
-  ![IPCONFIG](https://github.com/PavlyasB/IPhalo/blob/main/Képek/ipconfig-all.png?raw=true)
+  ![IPCONFIG](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/iphalo/k%C3%A9pek/ping%201.PNG)
 
 </details>
 
@@ -29,7 +29,7 @@ Parancs: `ipconfig /release`
 
   <summary>Kép megtekintése</summary>
 
-  ![release](https://github.com/PavlyasB/IPhalo/blob/main/Képek/iprelease.png?raw=true)
+  ![release](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/iphalo/k%C3%A9pek/release.PNG)
 
 </details>
 
@@ -39,7 +39,7 @@ Parancs: `ipconfig /renew`
 
   <summary>Kép megtekintése</summary>
 
-  ![renew](https://github.com/PavlyasB/IPhalo/blob/main/Képek/iprenew.png?raw=true)
+  ![renew](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/iphalo/k%C3%A9pek/renew.PNG)
 
 </details>
 
@@ -49,7 +49,7 @@ Parancs: `netstat -a`
 
   <summary>Kép megtekintése</summary>
 
-  ![netstat-a](https://github.com/PavlyasB/IPhalo/blob/main/Képek/netstat-a.png?raw=true)
+  ![netstat-a](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/iphalo/k%C3%A9pek/lista.PNG)
 
 </details>
 
@@ -59,7 +59,7 @@ Parancs: `ping microsoft.com`
 
   <summary>Kép megtekintése</summary>
 
-  ![microsoft](https://github.com/PavlyasB/IPhalo/blob/main/Képek/microsoftcom.png?raw=true)
+  ![microsoft](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/iphalo/k%C3%A9pek/microsoft.PNG)
 
 </details>
 
@@ -69,7 +69,7 @@ Parancs: `tracert www.ipon.hu`
 
   <summary>Kép megtekintése</summary>
 
-  ![tracert](https://github.com/PavlyasB/IPhalo/blob/main/Képek/traceipon.png?raw=true)
+  ![tracert](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/iphalo/k%C3%A9pek/ipon.PNG)
 
 </details>
 
@@ -79,7 +79,7 @@ Parancs: `netstat -f`
 
   <summary>Kép megtekintése</summary>
 
-  ![netstat-f](https://github.com/PavlyasB/IPhalo/blob/main/Képek/netstat-f.png?raw=true)
+  ![netstat-f](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/iphalo/k%C3%A9pek/FQDN.PNG)
 
 </details>
 
@@ -89,7 +89,7 @@ Parancs: `netsh interface show interface`
 
   <summary>Kép megtekintése</summary>
 
-  ![netsh](https://raw.githubusercontent.com/PavlyasB/IPhalo/refs/heads/main/K%C3%A9pek/netstat-a.png)
+  ![netsh](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/iphalo/k%C3%A9pek/nslookup.PNG)
 
 </details>
 
@@ -99,7 +99,7 @@ Parancs: `ipconfig /flushdns`
 
   <summary>Kép megtekintése</summary>
 
-  ![flushdns](https://github.com/PavlyasB/IPhalo/blob/main/Képek/dnsflush.png?raw=true)
+  ![flushdns](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/iphalo/k%C3%A9pek/DNS.PNG)
 
 </details>
 
@@ -109,7 +109,7 @@ Parancs: `net use`
 
   <summary>Kép megtekintése</summary>
 
-  ![netuse](https://github.com/PavlyasB/IPhalo/blob/main/Képek/netuse.png?raw=true)
+  ![netuse](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/iphalo/k%C3%A9pek/net%20use.PNG)
 
 </details>
 
@@ -119,7 +119,8 @@ Parancs: `nslookup www.ipon.hu`
 
   <summary>Kép megtekintése</summary>
 
-  ![Ipon](https://github.com/PavlyasB/IPhalo/blob/main/Képek/ipon.png?raw=true)
+  ![Ipon](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/iphalo/k%C3%A9pek/ipon.PNG)
+  ![Ipon](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/iphalo/k%C3%A9pek/nslookup.PNG)
 
 </details>
 
@@ -127,34 +128,34 @@ Parancs: `nslookup www.ipon.hu`
 <details>
   <summary>Kép megtekintése</summary>
 
-  ![telcsati](https://github.com/PavlyasB/IPhalo/blob/main/Képek/telefoncsati.PNG?raw=true)
+  ![telcsati]
 </details>
 
 ## 13. Telefon pingelése laptopról
 <details>
   <summary>Kép megtekintése</summary>
 
-  ![telping](https://github.com/PavlyasB/IPhalo/blob/main/Képek/Telefon-ping.png?raw=true)
+  ![telping](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/iphalo/k%C3%A9pek/ping%20telefon.PNG)
 </details>
 
 ## 14. Router konfigurációk
 <details>
   <summary>Kép megtekintése</summary>
 
-  ![routercon](https://github.com/PavlyasB/IPhalo/blob/main/Képek/routerconfig.png?raw=true)
+  ![routercon]()
 </details>
 
 <details>
   <summary>Kép megtekintése</summary>
 
-  ![routercon1](https://github.com/PavlyasB/IPhalo/blob/main/Képek/routerjelszo.png?raw=true)
+  ![routercon1]
 </details>
 
 <details>
 
   <summary>Kép megtekintése</summary>
 
-  ![routercon2](https://github.com/PavlyasB/IPhalo/blob/main/Képek/pingletilt.png?raw=true)
+  ![routercon2]
 </details>
 
 ## Összegzés
