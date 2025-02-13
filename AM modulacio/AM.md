@@ -1,7 +1,7 @@
 # Jegyzőkönyv
 
 ## Téma: Amplitúdómoduláció vizsgálata a GRF-1300A trénerrel
-
+**Név**: [Buró Bence]   
 **Dátum**: 2025. február 13.
 
 ---
@@ -41,6 +41,23 @@ A következő lépéseket végeztük el a mérés előtt:
 - **Oszcilloszkópos mérés**:
    - A moduláló jel amplitúdóját az oszcilloszkópon mértük.
    - **Moduláló jel szintje (Vpp)**: A mért érték 2 Vpp volt.
+
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![1](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/AM%20modulacio/k%C3%A9pek/SCR00.BMP)
+
+</details>
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![2](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/AM%20modulacio/k%C3%A9pek/SCR01.BMP)
+
+</details>
    
 ---
 
@@ -55,6 +72,24 @@ A következő lépéseket végeztük el a mérés előtt:
 - **Oszcilloszkópos mérés**:
    - A moduláló jel amplitúdóját ismét az oszcilloszkóppal mértük.
    - **Moduláló jel szintje (Vpp)**: A mért érték 1.5 Vpp volt.
+
+   
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![3](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/AM%20modulacio/k%C3%A9pek/TA01.PNG)
+
+</details>
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![4](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/AM%20modulacio/k%C3%A9pek/TA02.PNG)
+
+</details>
+   
 
 ---
 
@@ -75,6 +110,5 @@ A mérési eredmények és a dokumentált adatok alapján a feladat sikeresen be
 ---
 
 **Aláírás**  
-Név: [Buró Bence]  
-Pozíció: [A felhasználó pozíciója]  
+Név: [Buró Bence]   
 Dátum: 2025. február 13.
