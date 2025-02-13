@@ -18,7 +18,7 @@ Az amplitúdómoduláció (AM) vizsgálata egy fontos feladat a távközlési re
 
   <summary>Kép megtekintése</summary>
 
-  ![GRF]()
+  ![GRF](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/AM%20modulacio/k%C3%A9pek/InstekGRF-1300A.jpg)
 
 </details>
 
@@ -28,7 +28,7 @@ Az amplitúdómoduláció (AM) vizsgálata egy fontos feladat a távközlési re
 
   <summary>Kép megtekintése</summary>
 
-  ![GSP]()
+  ![GSP](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/AM%20modulacio/k%C3%A9pek/GSP-730.png)
 
 </details>
 
@@ -38,7 +38,7 @@ Az amplitúdómoduláció (AM) vizsgálata egy fontos feladat a távközlési re
 
   <summary>Kép megtekintése</summary>
 
-  ![HMO]()
+  ![HMO](https://raw.githubusercontent.com/burobence/jegyzokonyvek/refs/heads/main/AM%20modulacio/k%C3%A9pek/hmo1002.jpg)
 
 </details>
 
