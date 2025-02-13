@@ -13,8 +13,34 @@ Az amplitúdómoduláció (AM) vizsgálata egy fontos feladat a távközlési re
 
 ## 2. Használt eszközök  
 - **GRF-1300A RF és kommunikációs tréner**
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![GRF]()
+
+</details>
+
 - **GSP-730 Spektrumanalizátor**
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![GSP]()
+
+</details>
+
 - **HMO-1002 Digitális tárolós oszcilloszkóp**
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![HMO]()
+
+</details>
 
 ---
 
@@ -40,7 +66,7 @@ A következő lépéseket végeztük el a mérés előtt:
    
 - **Oszcilloszkópos mérés**:
    - A moduláló jel amplitúdóját az oszcilloszkópon mértük.
-   - **Moduláló jel szintje (Vpp)**: A mért érték 2 Vpp volt.
+   - **Moduláló jel szintje (Vpp)**: A mért érték 1 Vpp volt.
 
 
 <details>
@@ -71,7 +97,7 @@ A következő lépéseket végeztük el a mérés előtt:
 
 - **Oszcilloszkópos mérés**:
    - A moduláló jel amplitúdóját ismét az oszcilloszkóppal mértük.
-   - **Moduláló jel szintje (Vpp)**: A mért érték 1.5 Vpp volt.
+   - **Moduláló jel szintje (Vpp)**: A mért érték 1.2 Vpp volt.
 
    
 <details>
